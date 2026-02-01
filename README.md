@@ -1,4 +1,4 @@
-# Structural-Axioms-and-Theorems-of-Coherence-Drift-and-Directionality-v.1.7
+# Structural-Axioms-and-Theorems-of-Coherence-Drift-and-Directionality-v.1.8
 # PETRONUS / Cybernetics 2.5 — Working Papers (Date-Fixed Repository)
 
 This repository is a public, timestamped record of PETRONUS™ / Cybernetics 2.5 research artifacts and preprints.
