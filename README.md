@@ -1,0 +1,1 @@
+# Structural-Axioms-and-Theorems-of-Coherence-Drift-and-Directionality-v.1.7
